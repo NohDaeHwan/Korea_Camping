@@ -1,5 +1,5 @@
 ## Korea_Camping
-Websites where you can view camping sites nationwide and share experiences with others
+전국의 캠핑 사이트를 보고 다른 사람들과 경험을 공유할 수 있는 웹사이트
 
 # 환경
 - Windows 10
