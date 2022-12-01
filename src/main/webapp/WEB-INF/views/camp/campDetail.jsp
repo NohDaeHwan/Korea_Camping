@@ -170,7 +170,7 @@
 			</c:if>
 			
 			<hr><h5><strong><i class="fas fa-arrow-circle-right" style="color:green;"></i> 찾아오시는길</strong></h5>
-			<br><div class="row" id="map" style="width:63vw;height:70vh;"></div>
+			<br><div class="row" id="map" style="width:1200px;height:500px;"></div>
 		</div>
 	</div>	
 	<!--End Map -->
